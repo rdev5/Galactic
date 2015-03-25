@@ -390,6 +390,7 @@ namespace Galactic.ActiveDirectory
             }
             return false;
         }
+        
 
         /// <summary>
         /// Checks if this principal is a member of the supplied group.
